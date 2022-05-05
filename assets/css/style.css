@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    background-color: #F4F4F4;
+    color: #926239;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 17px;
+    line-height: 1.6;
+}
+.welcome-section-link{
+    color: inherit;
+}
